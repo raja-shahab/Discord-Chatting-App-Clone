@@ -1,0 +1,79 @@
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\aalig\source\repos\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.exe
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\ChatClient.pdb
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\App.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.pdb
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\obj\Debug\net6.0-windows\ChatClient_Content.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\Icons\camera.jpg
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\Icons\send.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\Icons\phone.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\Icons\plus.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp\ChattingApp\bin\Debug\net6.0-windows\Icons\video.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\ChatClient.exe
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\Icons\camera.jpg
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\Icons\phone.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\Icons\plus.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\Icons\send.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\Icons\video.png
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\bin\Debug\net6.0-windows\ChatClient.pdb
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\Theme\ChatItem.baml
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\Theme\ContactCard.baml
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\Theme\MessageBox.baml
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\App.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient_Content.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\App.baml
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.pdb
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+D:\AIR UNIVERSITY\VP Applications\ChattingApp2\ChattingApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
